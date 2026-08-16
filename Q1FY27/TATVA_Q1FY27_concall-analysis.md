@@ -20,6 +20,17 @@ The recovery is real — revenue +43% YoY (best-ever quarter), PAT +140%, EBITDA
 
 The FY25 trough (Sep'24 −₹1cr, Dec'24 ~0, Mar'25 ~₹1cr) makes the YoY optically huge; the underlying recovery has been building for four quarters.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹167cr | +43% | +25% | +41% | +6% | accelerating |
+| PAT | ₹16cr | +140% | +60% | +632% | −5% | rebound off trough |
+| OPM % | 19% | +400bps | −200bps | — | — | expanding |
+| ROE % (FY26) | 6% | — | n/a | — | 3Y avg 4% | weak |
+| ROCE % (FY26) | 7% | — | n/a | — | FY24→26: 1→7→7 | recovering ↑ |
+
+*Growth read: recovery on a **rising-off-zero** ROCE (1→7) — genuine improvement, but still far below cost of capital, and a fresh ₹200cr capex + ₹1,000cr borrowing limit tests whether returns can keep climbing or get diluted again.*
+
 **Margin walk:** OPM 15%→19% on SDA/PTC volume recovery + operating leverage. QoQ margin dipped slightly (21%→19%) on mix.
 
 **Quality check:** High. Other income minimal (₹1cr), tax 24% normal. The recovery is operational and clean.

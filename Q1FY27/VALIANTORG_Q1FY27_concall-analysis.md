@@ -20,6 +20,17 @@ Second consecutive improving quarter and the best OPM (18%) in the visible histo
 
 TTM NP ₹54cr / EPS ₹19.29. Recovery trend is real: Dec'25 ₹4 → Mar'26 ₹16 → Jun'26 ₹29.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹232cr | +14% | +6% | +1% | −11% | recovering |
+| PAT | ₹29cr | +263% | +81% | +895% | −30% | rebound off trough |
+| OPM % | 18% | +600bps | +600bps | — | — | expanding |
+| ROE % (FY26) | 4% | — | n/a | — | 3Y avg 1% | very weak |
+| ROCE % (FY26) | 5% | — | n/a | — | FY24→26: 3→5→5 | low/stabilising |
+
+*Growth read: real recovery, but off a wrecked base — 3Y PAT CAGR −30%, ROCE still only 5%. The TTM +895% is a trough-base artifact; durable returns remain unproven.*
+
 **Margin walk:** OPM 12% → 18% on better RM costs + regained pricing power in chlorophenol/benzene derivatives, plus Pharma segment swinging to profit.
 
 **Quality check:** Medium-High. Operating turnaround genuine (OP ₹42 vs ₹25 YoY). But other income ₹11cr = ~30% of PBT ₹37cr — strip it and the print is good, not spectacular. Tax 20% normal.

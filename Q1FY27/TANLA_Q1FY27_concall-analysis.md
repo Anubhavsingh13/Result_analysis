@@ -20,6 +20,17 @@ After ~two years of revenue stuck around ₹1,000cr/quarter, Tanla is growing ag
 
 TTM NP ₹533cr / EPS ₹40.19. The sequential arc (1,041→1,078→1,121→1,178→1,226) shows steady re-acceleration after the FY25 plateau.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹1,226cr | +18% | +4% | +13% | +10% | re-accelerating |
+| PAT | ₹142cr | +20% | +6% | +10% | +4% | steady |
+| OPM % | 16% | flat | flat | — | — | stable (below old 20%) |
+| ROE % (FY26) | 21% | — | n/a | — | 3Y avg 25% | strong, easing |
+| ROCE % (FY26) | 26% | — | n/a | — | FY24→26: 38→29→26 | high, falling ↓ |
+
+*Growth read: high returns (ROCE 26%, ROE 21%) but on a multi-year **downtrend** (38→26) as margins reset from the 20% heyday. Growth returning with better mix (GP > revenue growth) is the offset to watch.*
+
 **Margin walk:** OPM flat at 16% (well below the 19–20% of FY24), but GP/EBITDA growing faster than revenue = mix quality improving at the margin. FCF 89% of PAT is a standout.
 
 **Quality check:** High. Other income ₹14cr modest, tax 22%, near-zero debt, strong cash conversion. Clean.

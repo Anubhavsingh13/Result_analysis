@@ -20,6 +20,17 @@ The turnaround quarter Laxmi bulls have waited two years for — revenue +40% Yo
 
 TTM NP ₹126cr, TTM OPM still only 8% (dragged by the weak prior quarters) — so Q1's 12% is a genuine break higher, not the run-rate yet.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹968cr | +40% | +32% | +5% | +1% | inflecting |
+| PAT | ₹68cr | +216% | +209% | +25% | −14% | rebound off trough |
+| OPM % | 12% | +760bps | +500bps | — | — | expanding sharply |
+| ROE % (FY26) | 4% | — | n/a | — | 3Y avg 6% | very weak |
+| ROCE % (FY26) | 5% | — | n/a | — | FY24→26: 9→9→5 | falling ↓ |
+
+*Growth read: dramatic single-quarter inflection, but the base is dire — 3Y PAT CAGR −14%, ROCE fell 9→5. The whole thesis is whether this quarter starts a durable ROCE recovery or is one more false dawn.*
+
 **Margin walk:** OPM 4.4%→12% on acetyl/ethyl-acetate spread recovery + specialty (fluorochemicals) volume ramp finally contributing. Revenue +40% points to real volume, not just price.
 
 **Quality check:** High. Other income low (₹3cr), tax 26% normal. The recovery is operational, not below-the-line.

@@ -20,6 +20,17 @@ Sharp recovery — PAT +260% YoY, OPM at a ~2-year high (16%), EBITDA guidance �
 
 *Screener net sales ₹2,387cr; company press "revenue from operations ₹2,627cr" (gross). TTM NP ₹531cr / EPS ₹14.64. EBITDA +79% YoY / +13% QoQ.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹2,387cr | +42% | +8% | +27% | +8% | accelerating |
+| PAT | ₹155cr | +260% | +13% | +122% | −9% | rebound off trough |
+| OPM % | 16% | +300bps | +100bps | — | — | expanding |
+| ROE % (FY26) | 7% | — | n/a | — | 3Y avg 7% | weak/flat |
+| ROCE % (FY26) | 7% | — | n/a | — | FY24→26: 7→6→7 | low/flat |
+
+*Growth read: strong recovery print but ROCE stuck at 7% and 3Y PAT CAGR −9% — the earnings recovery hasn't yet translated into returns. Watch whether volume + new capacity lift ROCE.*
+
 **Margin walk:** OPM 13%→16% on optimised product mix, inventory management and **forex gains** — not volume. Energy business temporarily hit by West Asia disruption, managed via diversification.
 
 **Quality check:** Medium-High. Other income low (₹5cr) — profit is operational. But tax rate just 14% (vs ~25% norm) flatters PAT this quarter, and forex gains are inside EBITDA. Strip both and the underlying is good, not the full +260%.

@@ -22,6 +22,17 @@ Revenue +40% YoY (best Q1 sequential in four years) but **PAT dead flat** (₹11
 
 TTM Sales ₹3,813cr / NP ₹401cr. QoQ PAT +45% flatters — Mar'26 was depressed by a −₹10cr other-income swing.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹1,063cr | +40% | +6% | +30% | +15% | accelerating |
+| PAT | ₹116cr | −0.2% | +45% | −4% | +16% | decelerating |
+| OPM % | 16% | −400bps | flat | — | — | compressing |
+| ROE % (FY26) | 14% | — | n/a | — | 3Y avg 18% | good, easing |
+| ROCE % (FY26) | 19% | — | n/a | — | FY24→26: 25→25→19 | falling ↓ |
+
+*Growth read: the profitability paradox in the ratios — 40% revenue but flat PAT, OPM −400bps, and ROCE sliding 25→19. Growth is being bought with acquisition amortisation; returns are the casualty until the 19–20% margin guide delivers.*
+
 **Margin walk:** OPM 20%→16% (−400bps) on elevated operational costs (investment phase) + **non-cash amortisation from acquisitions** (D&A doubled YoY to ₹44cr). Revenue growth is substantially inorganic.
 
 **Quality check:** Medium. Other income ₹29cr = ~19% of PBT — strip it and PAT falls YoY. The flat headline PAT is actually *helped* by other income; core operating profitability weakened more than the print shows.

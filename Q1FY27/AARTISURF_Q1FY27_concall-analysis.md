@@ -26,6 +26,17 @@ Aarti group's commodity surfactants arm. Q1FY27 net profit ₹9.1cr is roughly h
 
 TTM: Sales ₹916cr · Op. Profit ₹56cr · OPM ~6% · NP ₹19cr. Q1 PAT (₹9.1cr) ≈ 48% of TTM PAT → back half of the trailing year was weak; Q1 marks a clear step-up.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹273cr | ~n/a† | ~+25% | +25% | +13% | recovering |
+| PAT | ₹9.1cr | strong | — | +43% | 0% | recovering |
+| OPM % | 7.4% | — | — | — | — | thin (commodity) |
+| ROE % (FY26) | 5% | — | n/a | — | 3Y avg 7% | very weak |
+| ROCE % (FY26) | ~8.6% | — | n/a | — | FY24→26: 9→9→8.6 | low/flat |
+
+†Limited quarterly history sourced — YoY approximate. *Growth read: recovery quarter, but structurally low-return commodity surfactants — ROCE stuck ~9%, 3Y PAT CAGR flat at 0%. Thin margins cap the returns however the volumes move.*
+
 **Margin read:** OPM 7.4% vs ~6% TTM — a recovery, but surfactants is a spread/utilisation-driven commodity; margin is the swing variable and reverts easily.
 
 **Quality check:** Medium. Clean below the line (other income negligible at ₹0.2cr, tax 26% normal), so the improvement is operational — but on a structurally low margin base with limited disclosure.

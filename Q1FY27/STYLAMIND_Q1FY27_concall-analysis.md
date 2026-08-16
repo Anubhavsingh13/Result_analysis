@@ -20,6 +20,17 @@ The cleanest print in this batch — revenue +15%, PAT +70%, record ~21% EBITDA 
 
 TTM NP ₹169cr. OPM ~21% is a record; PAT +70% reflects margin expansion + operating leverage on a debt-light base.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹326cr | +15% | +15% | +10% | +6% | steady |
+| PAT | ₹48cr | +70% | +26% | +39% | +15% | accelerating |
+| OPM % | 21% | +200bps | +100bps | — | — | expanding (record) |
+| ROE % (FY26) | 20% | — | n/a | — | 3Y avg 22% | strong |
+| ROCE % (FY26) | 27% | — | n/a | — | FY24→26: 34→27→27 | high, stable |
+
+*Growth read: the cleanest returns in the set — ROCE 27%, ROE 20%, +15% 3Y PAT CAGR, record margin on operational efficiency. Best quality-plus-growth pairing this quarter.*
+
 **Margin walk:** OPM 19%→21% — management stresses **operational efficiency, not inventory benefit** (a candor point). Low interest cost (near debt-free) drops most of EBITDA to PAT.
 
 **Quality check:** High. Other income ₹1cr (negligible), interest ₹1cr, tax 26% normal. Very clean, cash-generative.

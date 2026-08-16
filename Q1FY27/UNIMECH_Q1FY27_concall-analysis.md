@@ -21,6 +21,17 @@ Record revenue ₹108cr (+71% YoY), margin back to 36%, order book up 30% QoQ to
 
 TTM Sales ₹285cr / NP ₹72cr / EPS ₹14.16. The Dec'25 collapse-then-rebound illustrates the execution lumpiness inherent to project/aero-tooling revenue.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹108cr | +71% | +32% | +16% | +37% | strong (part inorganic) |
+| PAT | ₹28cr | +47% | +8% | −12% | +35% | lagging revenue |
+| OPM % | 36% | +500bps | −700bps | — | — | high, volatile |
+| ROE % (FY26) | 8% | — | n/a | — | 3Y avg ~13% | diluted ↓ |
+| ROCE % (FY26) | 11% | — | n/a | — | FY24→26: 22→11→11 | falling ↓↓ |
+
+*Growth read: high 3Y sales CAGR (37%) but **ROCE halved (22→11)** on IPO cash + capex, TTM PAT is −12%, and +71% is ~21% Hobel-inorganic. A ₹750cr QIP will dilute returns further before it lifts them. High margin, low and falling returns.*
+
 **Margin walk:** OPM back to 36% (gross margin ~65%) on volume recovery + mix. QoQ margin dipped from Mar'26's 43% on Hobel mix.
 
 **Quality check:** Medium. **+71% revenue is ~21% inorganic (Hobel)**; other income ₹7cr flatters PBT (and ran ₹10–15cr in recent quarters); tax 24% normal. High-margin but low-predictability.

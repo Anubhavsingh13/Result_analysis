@@ -20,6 +20,17 @@ Eye-catching headline — revenue +20%, PAT +123%, EBITDA +90%, OPM at a record 
 
 TTM NP ₹162cr / EPS ₹12.72. OPM 19% is the highest in the visible 13-quarter history (range had been 6–13%).
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹704cr | +20% | +11% | +6% | +4% | volume-flat |
+| PAT | ₹76cr | +123% | +130% | +37% | −8% | spread-driven spike |
+| OPM % | 19% | +700bps | +600bps | — | — | expanding (cyclical peak) |
+| ROE % (FY26) | 12% | — | n/a | — | 3Y avg 11% | modest/rising |
+| ROCE % (FY26) | 13% | — | n/a | — | FY24→26: 10→12→13 | rising ↑ |
+
+*Growth read: +123% PAT is a spinning-spread windfall (volume flat, 3Y PAT CAGR −8%), but ROCE is quietly **rising** (10→13) as solar/Odisha structural adds land. Cyclical print, improving base.*
+
 **Margin walk:** OPM 12%→19% YoY almost entirely on realisation/spread (volume flat) + lower energy cost from solar. Classic spinning up-cycle.
 
 **Quality check:** Medium. Clean below the line (other income ₹2cr, tax 26%) — so the print is real, but the *margin* is cyclically elevated, not structurally re-rated.

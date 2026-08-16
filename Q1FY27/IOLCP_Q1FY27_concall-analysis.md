@@ -20,6 +20,17 @@ Best quarter in the visible history — revenue +37% YoY, PAT +90%, EBITDA +61% 
 
 TTM NP ₹168cr / EPS ₹5.72. Recovery arc clear: the Sep'24–Dec'25 stretch ran 8–10% OPM; the last two quarters stepped to 14–15%.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹756cr | +37% | +22% | +19% | +2% | accelerating |
+| PAT | ₹64cr | +90% | +21% | +68% | +2% | accelerating |
+| OPM % | 14.6% | +300bps | −100bps | — | — | expanding |
+| ROE % (FY26) | 8% | — | n/a | — | 3Y avg 8% | modest |
+| ROCE % (FY26) | 11% | — | n/a | — | FY24→26: 9→11→11 | rising ↑ |
+
+*Growth read: a rare recovery on **rising** ROCE (9→11) — real operating improvement, not just a spread pop. Returns still modest, but the direction is right and the API diversification supports it.*
+
 **Margin walk:** OPM 11%→14% on better ibuprofen realisations + richer pharma/export mix. EBITDA margin 12.4%→14.6%.
 
 **Quality check:** Medium-High. Other income ₹8cr modest, tax 26% normal, depreciation stable. Clean operational print.

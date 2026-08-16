@@ -21,6 +21,17 @@ Clean recovery — standalone revenue +36%, PAT +115% (consol +99%), OPM back to
 
 TTM Sales ₹525cr / NP ₹50cr / EPS ₹81.65. Note the Dec'24 (OPM 4%) / Mar'25 (loss) trough — recovery has been steady for four quarters.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹137cr | +36% | −6% | +41% | +21% | accelerating |
+| PAT | ₹16cr | +100% | +45% | +181% | +32% | accelerating |
+| OPM % | 14% | +600bps | +200bps | — | — | expanding |
+| ROE % (FY26) | 16% | — | n/a | — | 3Y avg 13% | good/rising |
+| ROCE % (FY26) | 17% | — | n/a | — | FY24→26: 19→8→17 | recovered ↑ |
+
+*Growth read: recovery on **recovered** ROCE (dipped to 8 in FY25, back to 17) with +32% 3Y PAT CAGR — genuine improvement plus a regulated-market runway. Other-income flatter is the one caveat.*
+
 **Margin walk:** OPM 8%→14% on better product mix + new-capacity operating leverage. QoQ revenue dipped slightly but margin still expanded.
 
 **Quality check:** Medium. Other income ₹7cr = ~32% of PBT ₹22cr — strip it and the underlying is good but less spectacular. Tax 24% normal, minimal debt.

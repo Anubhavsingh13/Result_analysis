@@ -21,6 +21,17 @@ A tale of two businesses. Domestic (standalone) is firing — revenue +37% YoY, 
 *QoQ decline is partly seasonal — Q4 is always the peak quarter.
 **Standalone (domestic):** Rev +37% YoY, EBITDA margin 28.4% (+190bps), PAT ₹87.5cr (+21%). Consolidated PAT ₹57cr → **~₹30cr Huron drag**.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹508cr | +24% | −15%* | +17% | +31% | strong compounder |
+| PAT | ₹57cr | −20% | −37% | −4% | +157% | decel (Huron drag) |
+| OPM % | 21% | −300bps | −400bps | — | — | compressing (subsidiary) |
+| ROE % (FY26) | 18% | — | n/a | — | 3Y ~18% | strong/stable |
+| ROCE % (FY26) | 21% | — | n/a | — | FY24→26: 24→21→21 | high, mild easing |
+
+*QoQ seasonal. Growth read: high-quality compounder (ROCE 21%, 3Y sales +31%) — this quarter's −20% PAT is a Huron subsidiary drag, not a returns problem. Own-quality name.*
+
 **Margin walk:** Consol OPM 24%→21% driven by Huron revenue-recognition delays (revenue booked without matching margin) + finance costs tripling to ~₹19–24cr. Standalone margin actually *expanded*.
 
 **Quality check:** Medium. Other income clean (₹4cr), tax 22% normal. The softness is concentrated in one subsidiary's accounting/timing, not core demand — but that's also the ambiguity.

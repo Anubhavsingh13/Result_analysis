@@ -22,6 +22,17 @@ Headline looks soft — consol PAT −8.5% YoY — but that's misleading: the Ju
 
 TTM Sales ₹1,997cr / NP ₹313cr / EPS ₹31.09. **The YoY PAT dip is a base effect** — Jun'25 other income (₹43cr) was abnormally high; operating profit actually grew +18%.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹525cr | +30% | −2% | +18% | +19% | steady compounder |
+| PAT | ₹85cr | −8% | +31% | −11% | +24% | optically soft (base) |
+| OPM % | 24% | −200bps | +300bps | — | — | normalising |
+| ROE % (FY26) | 11% | — | n/a | — | 3Y avg 13% | good, easing |
+| ROCE % (FY26) | 14% | — | n/a | — | FY24→26: 24→20→14 | falling ↓↓ |
+
+*Growth read: genuine 3Y compounder (sales +19%, PAT +24%), but **ROCE has fallen 24→14** as capex-heavy new plants ramp ahead of revenue. The quality is intact; watch ROCE bottoming as Palwal/Noida come online.*
+
 **Margin walk:** OPM 26%→24% on higher depreciation (new capacity) + mix; standalone rev +12.3%, international +36.7% — consol growth is international-led.
 
 **Quality check:** Medium-High. Recurring high other income (₹35cr = ~30% of PBT) is a structural feature (treasury on cash). Tax 27% normal. Governance: Company Secretary resignation disclosed (minor, monitor).

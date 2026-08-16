@@ -21,6 +21,17 @@ The revenue breakout the Paushak thesis needed — **highest-ever quarterly sale
 
 TTM Sales ₹246cr / NP ₹42cr / EPS ₹17.19. The ₹84cr print breaks decisively above the ₹49–59cr range of the prior 12 quarters.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹84cr | +50% | +52% | +15% | +1% | breakout |
+| PAT | ₹15cr | +25% | +18% | −17% | −13% | lagging revenue |
+| OPM % | 31% | −100bps | +100bps | — | — | high, stable |
+| ROE % (FY26) | 7% | — | n/a | — | 3Y avg 10% | weak, eased |
+| ROCE % (FY26) | 8% | — | n/a | — | FY24→26: 17→11→8 | falling ↓↓ |
+
+*Growth read: high 31% OPM but **ROCE has halved (17→8)** as capex outran earnings — PAT (+25%) lagged the revenue breakout (+50%), and 3Y PAT CAGR is −13%. A volume inflection that has not yet become a returns inflection.*
+
 **Margin walk:** OPM held ~31% (high-margin phosgene niche) but EBITDA margin compressed slightly YoY on higher material costs; the PAT-vs-revenue gap is mostly **doubled depreciation** from newly commissioned capacity.
 
 **Quality check:** Medium-High. Other income low (₹3cr), tax 21%. The profit is operational; the muted PAT growth is depreciation/cost, not accounting.

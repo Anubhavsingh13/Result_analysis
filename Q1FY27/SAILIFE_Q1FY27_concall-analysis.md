@@ -19,6 +19,17 @@ Clean start to FY27 — revenue +12% YoY, PAT +22%, EBITDA margin up to 27% (fro
 
 TTM strong; note Jun'24 was a loss quarter (−₹14cr) — Q1 seasonality is structural for this business.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹554cr | +12% | −8%* | +18% | +22% | steady compounder |
+| PAT | ₹73cr | +22% | −30%* | +51% | +226% | accelerating |
+| OPM % | 27% | +300bps | −200bps | — | — | expanding |
+| ROE % (FY26) | 15% | — | n/a | — | 3Y avg 13% | good/rising |
+| ROCE % (FY26) | 20% | — | n/a | — | FY24→26: 14→20→20 | rising ↑ |
+
+*QoQ seasonal. Growth read: quality on **rising** ROCE (14→20) with 22% 3Y sales CAGR — one of the few names where growth, margin and returns all point up. Own-through-cycle.*
+
 **Margin walk:** OPM 24%→27% YoY on CRO growth + mix + operating leverage. QoQ step-down is seasonal (Dec/Mar are peak).
 
 **Quality check:** High. Other income low (₹4cr), tax 25% normal, interest falling. Depreciation rising with capex (new facilities). Clean, operational.

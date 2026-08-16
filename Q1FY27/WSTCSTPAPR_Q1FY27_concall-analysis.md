@@ -21,6 +21,17 @@ Big recovery — standalone revenue +15%, PAT +166%, OPM back to 23% (from 14%) 
 
 **Consolidated:** revenue ₹1,051cr, PAT ₹141.8cr (+145% YoY) — the gap to standalone is Andhra Paper. TTM standalone NP ₹221cr / EPS ₹33.49. FY26 final dividend ₹3/share (150%).
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹638cr | +15% | −10% | +6% | −4% | cyclical |
+| PAT | ₹109cr | +166% | +122% | −5% | −36% | rebound off trough |
+| OPM % | 23% | +900bps | +700bps | — | — | expanding (cyclical) |
+| ROE % (FY26) | 6% | — | n/a | — | 3Y avg 12% | weak, eased |
+| ROCE % (FY26) | 9% | — | n/a | — | FY24→26: 26→14→9 | falling ↓↓ |
+
+*Growth read: textbook commodity cycle in the ratios — 3Y PAT CAGR −36% and **ROCE collapsed 26→9** through the paper down-cycle. The +166% PAT is a price snapback; the returns say rent the cycle, don't own it.*
+
 **Margin walk:** OPM 14%→23% on paper-price/realisation recovery + lower input (pulp/energy) costs. QoQ revenue dipped but margin jumped — pure spread/realisation.
 
 **Quality check:** Medium. Other income ₹24cr = ~18% of PBT ₹137cr (treasury/investment income — recurring but volatile). Tax low at 20%. The margin itself is cyclically elevated vs the FY25 trough.

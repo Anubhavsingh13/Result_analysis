@@ -21,6 +21,17 @@ Headline looks good — PAT +22%, OPM 23% (best in recent quarters) — but the 
 
 TTM NP ₹152cr / EPS ₹5.58. Note Mar'26 was distorted by a −₹46cr other-income hit (forex/MTM) → the "recovery" QoQ is partly optics.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹304cr | +4% | −1% | +2% | −1% | stalled |
+| PAT | ₹60cr | +22% | turnaround | +5% | −3% | flat/low |
+| OPM % | 23% | +200bps | +500bps | — | — | expanding |
+| ROE % (FY26) | 16% | — | n/a | — | 3Y avg 17% | solid/stable |
+| ROCE % (FY26) | 21% | — | n/a | — | FY24→26: 23→21→21 | high, stable |
+
+*Growth read: returns are genuinely good and stable (ROCE 21%, ROE 16%), but growth has stalled — 3Y sales CAGR −1%. Good business, no top-line momentum.*
+
 **Margin walk:** OPM 21%→23% YoY on export mix + operating leverage, "despite labour constraints." But ₹20cr other income = ~25% of PBT ₹79cr — core operating PBT growth is more modest than the +22% PAT suggests.
 
 **Quality check:** Medium. Recurring high (and volatile) other income on the cash pile; tax 24% normal. Revenue +4.4% is the weak spot for a name pitched as a structural export/EV-bearing growth story.

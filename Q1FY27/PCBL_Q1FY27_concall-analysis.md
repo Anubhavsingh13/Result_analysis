@@ -21,6 +21,17 @@ A big rebound — revenue +17% YoY, PAT +65%, OPM 16% (from 12%), EBITDA/ton ₹
 
 TTM NP ₹259cr / EPS ₹6.64. The QoQ looks explosive only because Dec'25 (PAT ₹2cr, 80% tax quarter) and Mar'26 (₹40cr) were unusually weak.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹2,473cr | +17% | +20% | +2% | +12% | steady |
+| PAT | ₹155cr | +65% | +288% | −36% | −21% | rebound off weak base |
+| OPM % | 16% | +100bps | +400bps | — | — | expanding (peak-ish) |
+| ROE % (FY26) | 6% | — | n/a | — | 3Y avg 11% | weak, eased |
+| ROCE % (FY26) | 8% | — | n/a | — | FY24→26: 14→12→8 | falling ↓↓ |
+
+*Growth read: strong print on **falling** ROCE (14→8) and −21% 3Y PAT CAGR — the margin is management-flagged as inventory-aided, and the returns confirm this is a cyclical/leverage story, not compounding. Don't capitalise the ₹22,900/t.*
+
 **Margin walk:** OPM 12%→16% on better pricing, richer specialty mix (specialty CB volume +23% to 19,748t), strong demand — **plus inventory gains management flagged as non-recurring.** Carbon-black volume 153,530t (domestic +15%).
 
 **Quality check:** Medium. Other income negligible (good), tax 24% normal — but the *margin* itself is cyclically inflated (EBITDA/ton ₹22,900 vs ₹16,500–17,000 guide). High leverage: ₹403cr TTM interest.

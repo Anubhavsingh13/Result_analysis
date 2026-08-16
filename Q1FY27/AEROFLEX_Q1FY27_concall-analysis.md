@@ -20,6 +20,17 @@ Highest-ever quarterly revenue, +72% YoY, PAT +162%, at a clean 24% OPM and debt
 
 *Screener ₹139cr; company press ₹145.4cr. TTM Sales ₹472cr / NP ₹67cr / EPS ₹5.10. Jun'25 was a soft base (₹79cr) — flatters the YoY.
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹139cr | +76% | +17% | +30% | +15% | accelerating |
+| PAT | ₹19cr | +138% | +6% | +42% | +19% | accelerating |
+| OPM % | 24% | +400bps | −100bps | — | — | expanding |
+| ROE % (FY26) | 14% | — | n/a | — | 3Y avg 16% | good |
+| ROCE % (FY26) | 19% | — | n/a | — | FY24→26: 22→19 | high, mild easing |
+
+*Growth read: one of the few names where the print, the CAGR and the returns all align — +19% 3Y PAT CAGR, ROCE 19%. Genuine quality growth (data-centre theme); watch ROCE as capacity scales.*
+
 **Margin walk:** OPM 20%→24% YoY on operating leverage + richer mix (liquid-cooling skids). Slight QoQ dip (25%→24%) on tariff cost pressure.
 
 **Quality check:** High. Other income ~₹1cr, **zero interest (debt-free)**, tax 27% normal. Clean, operational, cash-generative print.

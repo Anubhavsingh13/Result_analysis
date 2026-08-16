@@ -20,6 +20,17 @@ Best quarter in the visible 13-quarter history. OPM 18% is a fresh high (norm ~1
 
 TTM NP ₹82cr / EPS ₹26.52. Note H1FY26 was loss-making (Sep'25 −2, Dec'25 −11) — the recovery is only two quarters old (Mar'26, Jun'26).
 
+### Growth-Rate Scorecard
+| Metric | Latest | YoY | QoQ | TTM | 3Y CAGR | Direction |
+|---|---|---|---|---|---|---|
+| Revenue | ₹618cr | +31% | +18% | −1% | −6% | cyclical rebound |
+| PAT | ₹66cr | turnaround | +136% | +35% | −78% | rebound off deep trough |
+| OPM % | 18% | +1800bps | +500bps | — | — | expanding (peak-ish) |
+| ROE % (FY26) | 0.2% | — | n/a | — | 3Y avg 4% | very weak |
+| ROCE % (FY26) | ~3% | — | n/a | — | FY24→26: 11→3 | falling ↓↓ |
+
+*Growth read: a cyclical margin snapback on a structurally low-return base — 3Y PAT CAGR −78% and ROCE collapsed 11%→3%. The 18% OPM is a spread peak, not evidence of durable returns.*
+
 **Margin walk:** −0.1% → 18% OPM YoY is entirely spread-driven. Orthoxylene feedstock spiked 50–60% in Apr–May causing demand moderation, but normalised by June to pre-Feb'26 levels; alkyd resin/paint demand strong.
 
 **Quality check:** High. Other income just ₹7cr (profit is operational, not treasury). Tax 26% normal. No visible exceptionals. Clean print.
