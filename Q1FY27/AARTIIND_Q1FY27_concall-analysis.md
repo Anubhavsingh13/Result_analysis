@@ -2,6 +2,8 @@
 
 **Quarter:** Q1FY27 (Apr–Jun 2026) · **Reported:** 31 Jul 2026 · **Basis:** Consolidated · First report in archive.
 
+> **Correction (5-Nov-2026):** the ₹1,800–2,200 Cr EBITDA target below is the **FY28** target, the end of the FY25–28 three-year plan, not FY27. See the Q1FY27 transcript Q&A and the Q2FY27 report.
+
 ## Verdict
 - **Concall Signal: 🟢 Thesis Strengthened** (margin/mix-led — volume recovery still pending)
 - **Management Credibility: B**
